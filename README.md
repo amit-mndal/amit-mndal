@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: Full-Stack, AI, and System Programming projects<br>👯 I'm looking to collaborate on: Open-source and innovative tech projects<br>🤝 I'm looking for help with: System Design and Cloud Computing<br>🌱 I'm currently learning: Systems Design and AI Infrastructure<br>💬 Ask me about: C++, MERN, GenAI, ML and Computer Networks<br>⚡ Fun fact: I believe consistency beats talent when talent doesn't work hard.
+🔭 I'm currently working on: Full-Stack, AI and System Programming projects<br>👯 I'm looking to collaborate on: Open-source and innovative tech projects<br>🤝 I'm looking for help with: System Design and Cloud Computing<br>🌱 I'm currently learning: Systems Design and AI Infrastructure<br>💬 Ask me about: C++, MERN, GenAI, ML and Computer Networks<br>⚡ Fun fact: I believe consistency beats talent when talent doesn't work hard.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=amit-mndal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amit-mndal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+###  Dev. Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
