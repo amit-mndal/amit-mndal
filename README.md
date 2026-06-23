@@ -1,11 +1,11 @@
 # About Me
 
-Currently building **Full-Stack, AI-powered, and Systems Programming** projects.<br>
-Open to collaborating on **open-source, scalable, and innovative software projects**.<br>
-Exploring **System Design, Cloud Computing, and AI Infrastructure**.<br>
-Currently learning **RAG, Agentic AI, and modern backend architectures**.<br>
-Interested in **C++, MERN Stack, Generative AI, Machine Learning, and Computer Networks**.<br>
-Strong believer that **consistency, discipline, and continuous learning drive long-term growth**.
+- Currently building **Full-Stack, AI-powered, and Systems Programming** projects.<br>
+- Open to collaborating on **open-source, scalable, and innovative software projects**.<br>
+- Exploring **System Design, Cloud Computing, and AI Infrastructure**.<br>
+- Currently learning **RAG, Agentic AI, and modern backend architectures**.<br>
+- Interested in **C++, MERN Stack, Generative AI, Machine Learning, and Computer Networks**.<br>
+- Strong believer that **consistency, discipline, and continuous learning drive long-term growth**.
 
 
 ## 🌐 Socials:
