@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I'm currently working on: Full-Stack, AI and System Programming projects<br>👯 I'm looking to collaborate on: Open-source and innovative tech projects<br>🤝 I'm looking for help with: System Design and Cloud Computing<br>🌱 I'm currently learning: Systems Design and AI Infrastructure<br>💬 Ask me about: C++, MERN, GenAI, ML and Computer Networks<br>⚡ Fun fact: I believe consistency beats talent when talent doesn't work hard.
+# About Me
+
+Currently building **Full-Stack, AI-powered, and Systems Programming** projects.<br>
+Open to collaborating on **open-source, scalable, and innovative software projects**.<br>
+Exploring **System Design, Cloud Computing, and AI Infrastructure**.<br>
+Currently learning **RAG, Agentic AI, and modern backend architectures**.<br>
+Interested in **C++, MERN Stack, Generative AI, Machine Learning, and Computer Networks**.<br>
+Strong believer that **consistency, discipline, and continuous learning drive long-term growth**.
 
 
 ## 🌐 Socials:
