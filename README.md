@@ -1,10 +1,10 @@
 # About Me
 
 - Currently building **Full-Stack, AI-powered, and Systems Programming** projects.<br>
-- Open to collaborating on **open-source, scalable, and innovative software projects**.<br>
+- Open to collaborating on **open-source, scalable and innovative software projects**.<br>
 - Exploring **System Design, Cloud Computing, and AI Infrastructure**.<br>
-- Currently learning **RAG, Agentic AI, and modern backend architectures**.<br>
-- Interested in **C++, MERN Stack, Generative AI, Machine Learning, and Computer Networks**.<br>
+- Currently learning **RAG, Agentic AI and modern backend architectures**.<br>
+- Interested in **C++, MERN Stack, Generative AI, Machine Learning and Computer Networks**.<br>
 - Strong believer that **consistency, discipline, and continuous learning drive long-term growth**.
 
 
@@ -35,8 +35,8 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amit-mndal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=amit-mndal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amit-mndal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
