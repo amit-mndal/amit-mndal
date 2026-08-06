@@ -1,6 +1,6 @@
 # About Me
 
-- Currently building **Full-Stack, AI-powered, and Systems Programming** projects.<br>
+- Currently building **Full-Stack, AI-powered and Systems Programming** projects.<br>
 - Open to collaborating on **Open-source, Scalable and innovative software projects**.<br>
 - Exploring **System Design, Software and AI**.<br>
 - Currently learning **RAG, Agentic AI and Modern System architectures**.<br>
