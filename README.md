@@ -7,8 +7,7 @@
 - Interested in **C++, MERN Stack, Generative AI, Machine Learning and Computer Networks**.<br>
 - Strong believer that **Consistency, Discipline and Continuous learning drive long term growth**.<br>
 - Tech thought: “Premature optimization is the root of all evil but so is ignoring time complexity until production.”
-- 
-
+  
 
 
 ## 🌐 Socials:
