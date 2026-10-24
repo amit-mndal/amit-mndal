@@ -8,6 +8,7 @@
 - Strong believer that **Consistency, Discipline and Continuous learning drive long term growth**.<br>
 - Tech thought: “Premature optimization is the root of all evil but so is ignoring time complexity until production.”
 
+
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-mndal) 
